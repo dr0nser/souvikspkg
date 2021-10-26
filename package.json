@@ -1,5 +1,5 @@
 {
-  "name": "souvik",
+  "name": "souvikspkg",
   "version": "1.0.0",
   "description": "My First npm package creation and publish.",
   "main": "index.js",
