@@ -1,0 +1,19 @@
+{
+  "name": "souvik",
+  "version": "1.0.0",
+  "description": "My First npm package creation and publish.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyucode/souvik.git"
+  },
+  "author": "Souvik Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyucode/souvik/issues"
+  },
+  "homepage": "https://github.com/whyucode/souvik#readme"
+}
