@@ -5,6 +5,6 @@ It takes 2 inputs and returns their sum.
     npm install souvik --save
 Then require the package and use it.
 
-[Comment: To check if this usage is proper]
-var sum = require(add(3, 4));
+[Comment: To check if this usage is proper] <br>
+var sum = require(add(3, 4)); <br>
 console.log(sum); // 8
